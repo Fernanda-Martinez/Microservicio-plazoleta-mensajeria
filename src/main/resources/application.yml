@@ -1,5 +1,11 @@
 server:
-  port: 8081
+  port: 8083
+
+twilio:
+  account_sid: AC114c8785ece6a3e0c8a347cd6455ede5
+  auth_token: 4b253ba7376a81f4c84deac665e82738
+  phone_number: +573022074060
+
 
 spring:
   datasource:
